@@ -9,6 +9,7 @@ A Python shell prompt Companion that uses the OpenRouter API to generate respons
 * Allows users to save conversation history to a file
 * Includes a `/help` command to display available commands
 * Includes a `/reset` command to reset conversation history
+* Includes a `/save` command to save conversation history to a file
 * Includes a `/quit` command to quit the script
 
 ## Installation
