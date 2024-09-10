@@ -27,8 +27,8 @@ theme = Theme({
 # Create a Rich console
 console = Console(theme=theme)
 
-model = "meta-llama/llama-3.1-8b-instruct:free"
-#model = "nousresearch/hermes-3-llama-3.1-405b"
+#model = "meta-llama/llama-3.1-8b-instruct:free"
+model = "nousresearch/hermes-3-llama-3.1-405b"
 
 # Default system prompt
 default_system_prompt = "You are an AI chat assistant. Respond to the user's queries."
